@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Sevipsagis/NodeJS-Firebase/issues"
   },
-  "homepage": "https://github.com/Sevipsagis/NodeJS-Firebase#readme"
+  "homepage": "https://github.com/Sevipsagis/NodeJS-Firebase#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1",
+    "firebase": "^7.19.1",
+    "firebase-admin": "^9.1.1"
+  }
 }
